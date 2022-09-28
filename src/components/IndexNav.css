@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+}
+
+.indexNav {
+  display: flex;
+  flex-direction: row;
+  background-color: #000;
+  color: #0de2ff;
+}
+
+.indexNav__list {
+  display: flex;
+  flex-direction: row;
+}

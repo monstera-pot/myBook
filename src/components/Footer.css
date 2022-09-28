@@ -1,0 +1,9 @@
+.footerLinks {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  justify-content: space-between;
+  justify-content: flex-start;
+  background-color: #000;
+  color: #0de2ff;
+}
